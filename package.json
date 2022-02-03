@@ -1,0 +1,23 @@
+{
+  "name": "itis6177-execcmdinterminalusingnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravani-Kalangi/ITIS6177-ExecCmdInTerminalUsingNodeJS.git"
+  },
+  "author": "Sravani Kalangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sravani-Kalangi/ITIS6177-ExecCmdInTerminalUsingNodeJS/issues"
+  },
+  "homepage": "https://github.com/Sravani-Kalangi/ITIS6177-ExecCmdInTerminalUsingNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
